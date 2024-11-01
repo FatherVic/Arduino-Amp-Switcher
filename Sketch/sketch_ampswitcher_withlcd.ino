@@ -1,3 +1,4 @@
+// 2024 by L S. Olsen
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <avr/wdt.h>  // Library for watchdog timer to reset Arduino
